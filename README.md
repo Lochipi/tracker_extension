@@ -7,9 +7,9 @@ Chrome extension that saves chrome urls, useful for sales professionals in stalk
 This can be used to save chrome urls and retrieve them at anytime in the local storage
 
 **Stack used**
-- **Html
-- **CSS
-- **JavaScript
+- **Html**
+- **CSS**
+- **JavaScript**
 
 ## What has been covered
 - const
